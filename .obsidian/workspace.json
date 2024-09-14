@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "d9296107204feeae",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcf9366d44c9bc4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "934c17ed73913df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 04/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bdc62be0331ba19",
+    "type": "split",
+    "children": [
+      {
+        "id": "493f8ad8800a1882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "881a3f6eee1420b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "560a8a09cb602c40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b07d54bc44cee430",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98a046e1a0c2b3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e8f2a41b55470b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69bbd82ea60e0c1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day 04/readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "057de465da1f60a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day 04/readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f1a2f3e0217f5d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a472bfbb904efaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day 04/readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "934c17ed73913df0",
+  "lastOpenFiles": [
+    "Day 04/alternatePositiveAndNegative.cpp",
+    "Day 04/alternate",
+    "Day 03/readme.md",
+    "Day 04/readme.md",
+    "Day 04",
+    "Day 03/mirrorTree.cpp",
+    "Day 02/readme.md",
+    "Day 03",
+    "Day 02/middleOfALinkedList.cpp"
+  ]
+}

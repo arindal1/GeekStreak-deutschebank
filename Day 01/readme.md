@@ -1,6 +1,8 @@
 # Minimum Cost of Ropes
 
-**Difficulty:** Easy
+**Difficulty:** Easy <br>
+**Tags:** Greedy Algorithm, Array, Priority Queue <br>
+**Solution:** [cpp](costOfTheRope.cpp) <br>
 
 **Problem Statement:** Given an array **arr** containing the lengths of the different ropes, we need to connect these ropes to form one rope. The cost to connect two ropes is equal to sum of their lengths. The task is to connect the ropes with minimum cost.
 
