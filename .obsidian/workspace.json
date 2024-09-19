@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 08/readme.md",
+                "file": "Day 09/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 08/readme.md",
+                "file": "Day 09/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 08/readme.md",
+                "file": "Day 09/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 08/readme.md"
+                "file": "Day 09/readme.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "934c17ed73913df0",
   "lastOpenFiles": [
+    "Day 08/readme.md",
     "Day 08/parenthesisChecker.cpp",
     "readme.md",
     "Day 07/minimizeTheHeightsI.md",
@@ -165,7 +166,6 @@
     "Day 04/alternate",
     "Day 03/readme.md",
     "Day 04",
-    "Day 03/mirrorTree.cpp",
     "Day 02/readme.md"
   ]
 }

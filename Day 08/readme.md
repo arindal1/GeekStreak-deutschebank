@@ -1,8 +1,8 @@
 # Parenthesis Checker
 
-Difficulty: **Easy**
-Tags: **Stack**, **String**
-Solution: **[cpp](parenthesisChecker.cpp)**
+Difficulty: **Easy** <br>
+Tags: **Stack**, **String** <br>
+Solution: **[cpp](parenthesisChecker.cpp)** <br>
 
 Given an expression string **x**. Examine whether the pairs and the orders of {,},(,),[,] are correct in exp.  
 For example, the function should return '*true*' for **exp** = `[()]{}{[()()]()}` and '*false*' for **exp** = `[(])`.
@@ -23,7 +23,7 @@ For example, the function should return '*true*' for **exp** = `[()]{}{[()()]()}
 **Output**: `false` <br>
 **Explanation**: `([]` - Here square bracket is balanced but the small bracket is not balanced and Hence , the output will be unbalanced.
 
-**Expected Time Complexity**: `O(|x|)` 
+**Expected Time Complexity**: `O(|x|)`  <br>
 **Expected Auxilliary Space**: `O(|x|)`
   
 **Constraints:**  
