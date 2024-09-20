@@ -98,7 +98,9 @@ This approach efficiently handles strings of up to the maximum constraint of \(1
 <summary>Code</summary>
 
 ```cpp
-vector<string> words;
+string reverseWords(string str) {
+    // code here
+    vector<string> words;
     string word;
     stringstream ss(str);
 
@@ -117,6 +119,7 @@ vector<string> words;
     }
 
     return result;
+}
 ```
 </details>
 
