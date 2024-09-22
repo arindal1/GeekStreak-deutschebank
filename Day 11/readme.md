@@ -1,8 +1,8 @@
 # Clone a linked list with next and random pointer
 
-Difficulty: **Hard**
-Tags: **Linked List**, **Deep Copy**, **Random Pointers**
-Solution: **[cpp](cloneALinkedList.cpp)**
+Difficulty: **Hard** <br>
+Tags: **Linked List**, **Deep Copy**, **Random Pointers** <br>
+Solution: **[cpp](cloneALinkedList.cpp)** <br>
 
 You are given a special linked list where each node has a next pointer pointing to its next node. You are also given some random pointers, where you will be given some pairs denoting two nodes **a** and **b** i.e. a->random = b **(*random* is a pointer to a random node).**
 
