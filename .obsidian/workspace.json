@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 12/readme.md",
+                "file": "Day 13/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 12/readme.md",
+                "file": "Day 13/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 12/readme.md",
+                "file": "Day 13/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 12/readme.md"
+                "file": "Day 13/readme.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "934c17ed73913df0",
   "lastOpenFiles": [
+    "Day 12/readme.md",
+    "Day 13/missingAndPepeating.cpp",
+    "Day 13/raedme.md",
+    "Day 13",
     "Day 11/readme.md",
     "Day 10/readme.md",
     "Day 11",
@@ -165,9 +169,7 @@
     "Day 06/longestValidParenthesis.cpp",
     "Day 06",
     "Day 05/readme.md",
-    "Day 05/binaryTreeToDLL.cpp",
     "Day 04/readme.md",
-    "Day 04/alternatePositiveAndNegative.cpp",
     "Day 03/readme.md",
     "Day 02/readme.md"
   ]

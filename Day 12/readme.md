@@ -1,6 +1,8 @@
 # Longest Prefix Suffix
 
-Difficulty: **Hard**
+Difficulty: **Hard** <br>
+Tags: **String**, **KMP Algorithm** <br>
+Solution: **[cpp](longestPrefixSuffix.cpp)** <br>
 
 Given a string of characters, find the length of the longest proper prefix which is also a proper suffix.
 
@@ -146,3 +148,7 @@ int lps(string str) {
 - **Time Complexity**: The algorithm processes each character of the string exactly once, making it an `O(n)` solution, where `n` is the length of the input string.
 - **Space Complexity**: The space complexity is `O(n)` due to the LPS array used to store the prefix-suffix lengths.
 </details>
+
+<br>
+
+[[back to TOP](#longest-prefix-suffix)]
