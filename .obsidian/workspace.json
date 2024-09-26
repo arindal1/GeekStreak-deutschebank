@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 15/readme.md",
+                "file": "Day 16/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 15/readme.md",
+                "file": "Day 16/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 15/readme.md",
+                "file": "Day 16/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 15/readme.md"
+                "file": "Day 16/readme.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "934c17ed73913df0",
   "lastOpenFiles": [
+    "Day 15/readme.md",
     "Day 15/palindromeLinkedList.cpp",
     "Day 14/readme.md",
-    "Day 15/readme.md",
     "Day 15",
     "Day 13/readme.md",
     "Day 12/readme.md",
@@ -171,7 +171,6 @@
     "Day 07/minimizeTheHeights",
     "Day 07/minimizeTheHeights.cpp",
     "Day 06/readme.md",
-    "Day 06/longestValidParenthesis.cpp",
     "Day 05/readme.md",
     "Day 04/readme.md",
     "Day 03/readme.md",
