@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 18/readme.md",
+                "file": "Day 19/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 18/readme.md",
+                "file": "Day 19/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 18/readme.md",
+                "file": "Day 19/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 18/readme.md"
+                "file": "Day 19/readme.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +147,9 @@
   },
   "active": "934c17ed73913df0",
   "lastOpenFiles": [
+    "Day 18/readme.md",
+    "Day 19/readme.md",
+    "Day 19",
     "Day 18/minimalCost.cpp",
     "Day 17/readme.md",
     "Day 16/readme.md",
@@ -171,8 +173,6 @@
     "Day 07/minimizeTheHeightsI.md",
     "Day 07/readme.md",
     "Day 07/minimizeTheHeightsII.cpp",
-    "Day 07/minimizeTheHeights",
-    "Day 07/minimizeTheHeights.cpp",
     "Day 06/readme.md",
     "Day 05/readme.md",
     "Day 04/readme.md",
