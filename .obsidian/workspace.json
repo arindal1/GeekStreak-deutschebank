@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 19/readme.md",
+                "file": "Day 20/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 19/readme.md",
+                "file": "Day 20/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 19/readme.md",
+                "file": "Day 20/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 19/readme.md"
+                "file": "Day 20/readme.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "934c17ed73913df0",
   "lastOpenFiles": [
-    "Day 18/readme.md",
     "Day 19/readme.md",
+    "Day 18/readme.md",
     "Day 19",
     "Day 18/minimalCost.cpp",
     "Day 17/readme.md",
